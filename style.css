@@ -3,6 +3,7 @@ body{
   max-width: 600px;
   margin: auto;
   padding: 36px;
+  margin-bottom: 80px;
 }
 
 .card{
@@ -22,6 +23,10 @@ body{
 .card a{
   text-decoration: none;
   color: black;
+}
+
+.card img{
+	width: 100%;
 }
 
 .center-text{
